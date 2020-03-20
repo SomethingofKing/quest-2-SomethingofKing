@@ -69,7 +69,7 @@ void Interaction::menu() {
 
 			if (input == 2) {
 				cout << "Your balance is: $";
-				cout << database.accounts[userAccount].getBalance;
+				cout << database.accounts[userAccount].getBalance();
 				input = 10;
 			}
 			

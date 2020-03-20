@@ -2,7 +2,8 @@
 #include <iostream>
 
 int main() {
-	Interaction::menu();
+	Interaction interaction;
+	interaction.menu();
 
 	system("pause");
 	return 0;
