@@ -1,0 +1,11 @@
+﻿  Account.cpp
+  Database.cpp
+c:\users\nobody\documents\github\quest-2-somethingofking\quest2prog2\quest2prog2\database.cpp(3): warning C4018: '<': signed/unsigned mismatch
+c:\users\nobody\documents\github\quest-2-somethingofking\quest2prog2\quest2prog2\database.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  Interaction.cpp
+c:\users\nobody\documents\github\quest-2-somethingofking\quest2prog2\quest2prog2\interaction.cpp(72): error C3867: 'Account::getBalance': non-standard syntax; use '&' to create a pointer to member
+  main.cpp
+c:\users\nobody\documents\github\quest-2-somethingofking\quest2prog2\quest2prog2\main.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+c:\users\nobody\documents\github\quest-2-somethingofking\quest2prog2\quest2prog2\database.cpp(9): warning C4715: 'Database::findAccount': not all control paths return a value
+c:\users\nobody\documents\github\quest-2-somethingofking\quest2prog2\quest2prog2\database.cpp(28): warning C4715: 'Database::matchPin': not all control paths return a value
